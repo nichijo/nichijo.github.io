@@ -1,6 +1,6 @@
 [book]
 authors = ["にちじょう"]
-language = "en"
+language = "ja"
 multilingual = false
 src = "src"
 title = "notebook"
