@@ -4,3 +4,9 @@ language = "ja"
 multilingual = false
 src = "src"
 title = "notebook"
+
+[preprocessor.mermaid]
+command = "mdbook-mermaid"
+
+[output.html]
+additional-js = ["mermaid.min.js", "mermaid-init.js"]
